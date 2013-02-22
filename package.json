@@ -10,7 +10,7 @@
     "jade": "*"
   },
   "description": "ERROR: No README.md file found!",
-  "main": "index.js",
+  "main": "app.coffee",
   "repository": "",
   "author": "",
   "license": "BSD"
